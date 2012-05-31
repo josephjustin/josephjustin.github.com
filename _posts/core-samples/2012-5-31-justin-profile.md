@@ -1,5 +1,5 @@
 
-Email: justin@josephjustin.com
+Email: justinATjosephjustinDOTcom
 
 Justin Joseph
 
