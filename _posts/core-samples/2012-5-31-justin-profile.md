@@ -1,76 +1,73 @@
 
-Email: justinATjosephjustinDOTcom
+Cell: +91-8129166455
+Email: justinATjosephjustin.com
 
 Justin Joseph
 
 Profile
 -------
-
-Linux Systems Engineer with 8 years experience on networking in
-Linux and C system programming on Linux. Computer science and
-engineering graduate(B.Tech), worked extensively on Linux with
-practical knowledge of Linux TCP/IP networking stack,
-networking applications and C programming on Linux. Experience
-in networking capabilities of linux including Netfilter
-framework and applications implementing features like IDS/IPS,
-VRRP, IPSec VPN etc. Experience in tool chain building and
-programming microcontroller. Proficient in using development
-tools on linux including gcc, gdb, diff, make, gprof, svn etc.
-Experience in writing device drivers for linux.
+Linux Systems Engineer with 9 years experience on Linux kernel based operating systems
+including mobile/tablet versions of Android, desktop/server (PC Based) operating systems like
+Redhat, Debian, Ubuntu etc.. DD-WRT/Open-WRT based network embedded device firmwares.
+Domain expertize in networking and C system programming on Linux. Computer science and
+engineering graduate(B.Tech), worked extensively on Linux with practical knowledge of TCP/IP
+networking stack, networking applications and C programming. Experience in networking
+capabilities of linux including Netfilter framework and applications implementing features like
+IDS/IPS, VRRP, IPSec VPN etc. Experience in tool chain building and microcontroller
+programming. Proficient in using development tools on linux including gcc, gdb, diff, make, gprof,
+repo, git, svn etc. Experience in writing device drivers. Experience in Android development
+including custom ROM(CyanogenMod, AOSP based) building from sources, kernel space and
+userspace programming.
 
 Technical Skills
 ----------------
 
-Operating System : System Programming skills on Linux –
-knowledge of system calls, IPC mechanisms (shared memory,
-semaphores), POSIX threads, device driver writing.
+Operating System : System Programming skills on Linux - knowledge of system calls, IPC
+mechanisms (shared memory, semaphores), POSIX threads, device driver writing.
 
 Programming Languages : Skilled in C.
 
-Unix Tools: Make, Diff, Patch, gdb, gprof, svn, git-svn.
+Unix Tools: make, gcc, diff, patch, gdb, gprof, svn, git, git-svn, repo.
 
 Microcontroller: ATMEL ATMega8.
 
 Networking: TCP/IP Networking stack and applications.
 
-Work Experience (8 years)
--------------------------
+Android: Custom ROM building, kernel/userspace programming and configuration.
 
-Worked in challenging roles at startups like Elina Networks Pvt
-Ltd, Bangalore (Sr. R&D Engineer) ,Solidcore Techsoft, New
-Delhi (Trainee Software Engineer). Intel Bangalore(contracted
-in role of Linux Consultant), Wipro Technologies (Senior
-consultant).
+Work Experience (9 years)
+-------------------------
+Presently working as freelance consultant helping business solve problems in the field of Free and
+Opensource systems.  Industry Experience: Worked in challenging roles at startups like Elina Networks 
+Pvt Ltd(IIMB incubated), Bangalore (Sr. R&D Engineer) ,Solidcore Techsoft (Acquired by McAfee, Trainee
+Software Engineer). Intel Bangalore (contracted in role of Linux Consultant), Wipro Technologies
+(Senior consultant).
 
 Academic Qualification
 ----------------------
-Bachelor of Technology in Computer Science & Engineering, from
-MES College of Engineering, Kuttipuram, under University Of
-Calicut (1999-2003).
+Bachelor of Technology in Computer Science & Engineering, from MES College of Engineering,
+Kuttipuram, under University Of Calicut (1999-2003).
 
 Roles and Achievements
 ----------------------
+As a freelance consultant, I have been instrumental in helping businesses solve problems enabling
+them to start new product lines, fix critical bugs, secure IT infrastructure and this has helped them
+in delivering more value to their existing customers and increasing their existing customer base.
 
 
-As Senior Consultant working at Intel in the Low Power IA(Power
-and Performance) team, I was responsible for providing
-solutions aiding in Power and Performance improvements for
-Meego O.S running on Intel Medfield platform.
+As Senior Consultant working at Intel in the Low Power IA(Power and Performance) team, I was
+responsible for providing solutions aiding in Power and Performance improvements for Android
+and Meego O.S running on Intel Medfield platform.
 
-As Sr. R&D Engineer working at Elina Networks(product start-up
-company), I was responsible for implementing network
-functionality on Elina router/firewall. Being part of a
-technology start up which incubated at IIM Bangalore, I worked
-on a broad range of requirements in a tight schedule. Was
-responsible in adhering to short release cycles targeting
-multiple features thereby enabling Elina to meet new client
-requirements.
+As Sr. R&D Engineer working at Elina Networks(product start-up company), I was responsible for
+implementing network functionality on Elina router/firewall. Being part of a technology start up
+which incubated at IIM Bangalore, I worked on a broad range of requirements in a tight schedule.
+Was responsible in adhering to short release cycles targeting multiple features thereby enabling
+Elina to meet new client requirements.
 
-My career involved usage of Open source software and
-collaboration with the Open source community at large. Worked
-with different Open source communities in India and is the
-founder member of FSMK www.fsmk.org and computerclub.in
-http://computerclub.in/ComputerClubIndiaAtFossIn2009
+My career involved usage of Open source software and collaboration with the Open source
+community at large. Worked with different Open source communities in India and is the founder
+member of FSMK www.fsmk.org and computerclub.in http://computerclub.in/ComputerClubIndiaAtFossIn2009
 
 Projects Summary
 ----------------
@@ -265,4 +262,5 @@ Technology Skills
 
 Linux systems programming. C programming. Tool chain building.
 Assembling hardware programmer.
+
 

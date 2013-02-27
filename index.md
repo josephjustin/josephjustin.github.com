@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi!
-tagline: I am a Computer Programmer and FOSS consultant from Cochin, India.  Welcome to my site.
+tagline: I am a software consultant from Cochin, India doing full time freelance consulting since an year plus.  Welcome!
 ---
 {% include JB/setup %}
 

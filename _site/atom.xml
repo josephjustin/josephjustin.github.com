@@ -4,7 +4,7 @@
  <title>Home</title>
  <link href="http://josephjustin.com/atom.xml" rel="self"/>
  <link href="http://josephjustin.com"/>
- <updated>2012-05-31T10:23:32+05:30</updated>
+ <updated>2013-02-27T12:50:31+05:30</updated>
  <id>http://josephjustin.com</id>
  <author>
    <name>Justin Joseph</name>
@@ -17,29 +17,31 @@
    <link href="http://josephjustin.com/2012/05/31/justin-profile"/>
    <updated>2012-05-31T00:00:00+05:30</updated>
    <id>http://josephjustin.com/2012/05/31/justin-profile</id>
-   <content type="html">&lt;p&gt;Email: justin@josephjustin.com&lt;/p&gt;
+   <content type="html">&lt;p&gt;Cell: +91-8129166455 Email: justinATjosephjustin.com&lt;/p&gt;
 
 &lt;p&gt;Justin Joseph&lt;/p&gt;
 
 &lt;h2 id='profile'&gt;Profile&lt;/h2&gt;
 
-&lt;p&gt;Linux Systems Engineer with 8 years experience on networking in Linux and C system programming on Linux. Computer science and engineering graduate(B.Tech), worked extensively on Linux with practical knowledge of Linux TCP/IP networking stack, networking applications and C programming on Linux. Experience in networking capabilities of linux including Netfilter framework and applications implementing features like IDS/IPS, VRRP, IPSec VPN etc. Experience in tool chain building and programming microcontroller. Proficient in using development tools on linux including gcc, gdb, diff, make, gprof, svn etc. Experience in writing device drivers for linux.&lt;/p&gt;
+&lt;p&gt;Linux Systems Engineer with 9 years experience on Linux kernel based operating systems including mobile/tablet versions of Android, desktop/server (PC Based) operating systems like Redhat, Debian, Ubuntu etc.. DD-WRT/Open-WRT based network embedded device firmwares. Domain expertize in networking and C system programming on Linux. Computer science and engineering graduate(B.Tech), worked extensively on Linux with practical knowledge of TCP/IP networking stack, networking applications and C programming. Experience in networking capabilities of linux including Netfilter framework and applications implementing features like IDS/IPS, VRRP, IPSec VPN etc. Experience in tool chain building and microcontroller programming. Proficient in using development tools on linux including gcc, gdb, diff, make, gprof, repo, git, svn etc. Experience in writing device drivers. Experience in Android development including custom ROM(CyanogenMod, AOSP based) building from sources, kernel space and userspace programming.&lt;/p&gt;
 
 &lt;h2 id='technical_skills'&gt;Technical Skills&lt;/h2&gt;
 
-&lt;p&gt;Operating System : System Programming skills on Linux – knowledge of system calls, IPC mechanisms (shared memory, semaphores), POSIX threads, device driver writing.&lt;/p&gt;
+&lt;p&gt;Operating System : System Programming skills on Linux - knowledge of system calls, IPC mechanisms (shared memory, semaphores), POSIX threads, device driver writing.&lt;/p&gt;
 
 &lt;p&gt;Programming Languages : Skilled in C.&lt;/p&gt;
 
-&lt;p&gt;Unix Tools: Make, Diff, Patch, gdb, gprof, svn, git-svn.&lt;/p&gt;
+&lt;p&gt;Unix Tools: make, gcc, diff, patch, gdb, gprof, svn, git, git-svn, repo.&lt;/p&gt;
 
 &lt;p&gt;Microcontroller: ATMEL ATMega8.&lt;/p&gt;
 
 &lt;p&gt;Networking: TCP/IP Networking stack and applications.&lt;/p&gt;
 
-&lt;h2 id='work_experience_8_years'&gt;Work Experience (8 years)&lt;/h2&gt;
+&lt;p&gt;Android: Custom ROM building, kernel/userspace programming and configuration.&lt;/p&gt;
 
-&lt;p&gt;Worked in challenging roles at startups like Elina Networks Pvt Ltd, Bangalore (Sr. R&amp;amp;D Engineer) ,Solidcore Techsoft, New Delhi (Trainee Software Engineer). Intel Bangalore(contracted in role of Linux Consultant), Wipro Technologies (Senior consultant).&lt;/p&gt;
+&lt;h2 id='work_experience_9_years'&gt;Work Experience (9 years)&lt;/h2&gt;
+
+&lt;p&gt;Presently working as freelance consultant helping business solve problems in the field of Free and Opensource systems. Industry Experience: Worked in challenging roles at startups like Elina Networks Pvt Ltd(IIMB incubated), Bangalore (Sr. R&amp;amp;D Engineer) ,Solidcore Techsoft (Acquired by McAfee, Trainee Software Engineer). Intel Bangalore (contracted in role of Linux Consultant), Wipro Technologies (Senior consultant).&lt;/p&gt;
 
 &lt;h2 id='academic_qualification'&gt;Academic Qualification&lt;/h2&gt;
 
@@ -47,7 +49,9 @@
 
 &lt;h2 id='roles_and_achievements'&gt;Roles and Achievements&lt;/h2&gt;
 
-&lt;p&gt;As Senior Consultant working at Intel in the Low Power IA(Power and Performance) team, I was responsible for providing solutions aiding in Power and Performance improvements for Meego O.S running on Intel Medfield platform.&lt;/p&gt;
+&lt;p&gt;As a freelance consultant, I have been instrumental in helping businesses solve problems enabling them to start new product lines, fix critical bugs, secure IT infrastructure and this has helped them in delivering more value to their existing customers and increasing their existing customer base.&lt;/p&gt;
+
+&lt;p&gt;As Senior Consultant working at Intel in the Low Power IA(Power and Performance) team, I was responsible for providing solutions aiding in Power and Performance improvements for Android and Meego O.S running on Intel Medfield platform.&lt;/p&gt;
 
 &lt;p&gt;As Sr. R&amp;amp;D Engineer working at Elina Networks(product start-up company), I was responsible for implementing network functionality on Elina router/firewall. Being part of a technology start up which incubated at IIM Bangalore, I worked on a broad range of requirements in a tight schedule. Was responsible in adhering to short release cycles targeting multiple features thereby enabling Elina to meet new client requirements.&lt;/p&gt;
 

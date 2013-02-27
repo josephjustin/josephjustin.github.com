@@ -1,10 +1,10 @@
 
-http://josephjustin.com/index.html
-http://josephjustin.com/sitemap.txt
-http://josephjustin.com/atom.xml
 http://josephjustin.com/archive.html
-http://josephjustin.com/categories.html
 http://josephjustin.com/pages.html
+http://josephjustin.com/index.html
+http://josephjustin.com/atom.xml
+http://josephjustin.com/categories.html
 http://josephjustin.com/tags.html
+http://josephjustin.com/sitemap.txt
 
 http://josephjustin.com/2012/05/31/justin-profile
