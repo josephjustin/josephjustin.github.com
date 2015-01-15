@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi!
-tagline: I am a software consultant from Cochin, India doing full time freelance consulting since an year plus.  Welcome!
+tagline: I am a software consultant currently residing in Phoenix, AZ, U.S.A.
 ---
 {% include JB/setup %}
 
